@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/surtidor/static/css/main.073c9b0a.css",
+    "main.js": "/surtidor/static/js/main.4a2b7f69.js",
+    "static/js/787.4c53b634.chunk.js": "/surtidor/static/js/787.4c53b634.chunk.js",
+    "index.html": "/surtidor/index.html",
+    "main.073c9b0a.css.map": "/surtidor/static/css/main.073c9b0a.css.map",
+    "main.4a2b7f69.js.map": "/surtidor/static/js/main.4a2b7f69.js.map",
+    "787.4c53b634.chunk.js.map": "/surtidor/static/js/787.4c53b634.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4a2b7f69.js"
+  ]
+}
